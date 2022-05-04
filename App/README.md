@@ -1,7 +1,7 @@
 # NLW-Return
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -13,21 +13,21 @@
  <img src="/App/assets/Capa.png" alt="PRs welcome!" />
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer
+DoctorCare is an institutional page in the One Page format, responsive, to be used in various types of micro, small and medium-sized companies. Contains the following sections: Header, Navigation, Home, About, Services and Footer
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [this link](https://www.figma.com/community/file/1102912263666619803). It's necessary to have an account on [Figma](https://figma.com) to access.
 
 
-Feito com 💜 by Rocketseat 
+Thanks Rocketseat💜.
